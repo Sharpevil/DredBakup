@@ -1,0 +1,9 @@
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\bin\Debug\DredBakup.exe.config
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\bin\Debug\DredBakup.exe
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\bin\Debug\DredBakup.pdb
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.csprojResolveAssemblyReference.cache
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.Form1.resources
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.Properties.Resources.resources
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.csproj.GenerateResource.Cache
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.exe
+c:\users\zilla\documents\visual studio 2015\Projects\DredBakup\DredBakup\obj\Debug\DredBakup.pdb
